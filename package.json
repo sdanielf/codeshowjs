@@ -1,0 +1,13 @@
+{
+  "name"          : "codeshowjs",
+  "description"   : "Show animated code in your html5 presentation",
+  "url"           : "http://sdanielf.github.io/codeshowjs",
+  "author"        : "Daniel Francis <francis@sugarlabs.org>",
+  "main"          : "codeshow.js",
+  "version"       : "1.0.0",
+  "license"       : "GPLv3",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdanielf/codeshowjs.git"
+  }
+}
